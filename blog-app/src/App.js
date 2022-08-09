@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Greet from './components/HomePage';
-
+import React from 'react';
+import Navbar from './components/Navbar';
 function App() {
   return (
     <div>
-      <Greet/>
+     <Navbar/>
     </div>
   );
 }
