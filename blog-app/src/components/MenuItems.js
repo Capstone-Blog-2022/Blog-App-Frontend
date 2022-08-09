@@ -2,10 +2,10 @@ export  const MenuItems = [
     {
         title:"LogInPage",
         url:"#",
-        cName:'nav-links'
+        cName:'nav-links-mobile'
     },
     {
-        title:"HomePage",
+        title:"Home",
         url:"#",
         cName:'nav-links'
     },
