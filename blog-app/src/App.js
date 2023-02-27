@@ -1,12 +1,11 @@
 import './App.css';
 import React from 'react';
-import Navbar from './components/Navbar';
-import LoginUi from './components/LogInUi';
+import Navbar from './components/navbar';
+
 function App() {
   return (
     <div>
-     <Navbar/>
-     <LoginUi/>
+        <Navbar />
     </div>
   );
 }
